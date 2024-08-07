@@ -34,7 +34,55 @@ Ngoài ra trang web và các chức năng phải được thiết kế sao cho d
 
 # CƠ SỞ DỮ LIỆU
 
-![image](https://github.com/user-attachments/assets/ce79dc75-d422-45cb-8a4c-00d23cf1d5c4)
+![image](https://github.com/user-attachments/assets/c2194587-0c8d-4b39-9e21-85804033d1a0)
+
+# GIAO DIỆN WEBSITE 
+
+ - Đăng nhập:
+
+   ![image](https://github.com/user-attachments/assets/b9384400-1915-48a4-8036-b797ba80c7d3)
+
+- Đăng ký:
+
+  ![image](https://github.com/user-attachments/assets/1595818e-2811-4511-82cc-5c19b8ebde54)
+  
+- Trang chủ bên khách hàng:
+
+  ![image](https://github.com/user-attachments/assets/d4af1d71-3bec-4895-93a5-c9514327f77d)
+
+- Hiển thị chi tiết sản phẩm:
+
+  ![image](https://github.com/user-attachments/assets/b4f9b12f-d5d5-417b-829c-dba9fb9bd16f)
+
+- Giỏ hàng khi khách hàng cần thanh toán:
+
+  ![image](https://github.com/user-attachments/assets/676ec785-b38d-434a-a81e-a322c5fbbaa9)
+
+- Trang thanh toán sản phẩm khi khách hàng thanh toán:
+
+  ![image](https://github.com/user-attachments/assets/ed262a34-3a4f-45f1-9ed3-f9f29b377e4a)
+
+- Trang chủ bên quản lý:
+
+  ![image](https://github.com/user-attachments/assets/da206212-e9c3-4017-9b98-45c8e25be1cd)
+
+- Cập nhật sản phẩm của quản lý:
+
+  ![image](https://github.com/user-attachments/assets/0c10d9c3-24da-4a22-abf6-c76f43566738)
+
+- Quản lý khách hàng bên quản lý:
+
+  ![image](https://github.com/user-attachments/assets/5bf9cf1d-5f26-4226-9327-800f452bca5d)
+
+
+
+
+
+
+
+
+
+
 
 
 
