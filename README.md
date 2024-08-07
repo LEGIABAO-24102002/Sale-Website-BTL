@@ -34,7 +34,7 @@ Ngoài ra trang web và các chức năng phải được thiết kế sao cho d
 
 # CƠ SỞ DỮ LIỆU
 
-![image](https://github.com/user-attachments/assets/c2194587-0c8d-4b39-9e21-85804033d1a0)
+  ![image](https://github.com/user-attachments/assets/d0a89de3-fe2b-4904-b5b5-034e2ac9927d)
 
 # GIAO DIỆN WEBSITE 
 
